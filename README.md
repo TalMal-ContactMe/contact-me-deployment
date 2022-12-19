@@ -1,4 +1,4 @@
-Contact-me  
+# Contact-me - deployment instructions:
 Contact-me is a chat application, demonstrating micro-service architecture.  
 Composed of Angular frontend, spring backend, Eureka, RabbitMQ, and Zipkin,  
 to enable communication with Slack servers and create a two way live chat.  
